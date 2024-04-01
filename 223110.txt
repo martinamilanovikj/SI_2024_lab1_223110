@@ -47,4 +47,7 @@ git rebase --continue - продолжува rebase
 27. git push --force origin bug2 - присилно ги додадов
 28. git log >> logs.txt - ги копирам git логовите
 nano 223110.txt - датотека со користени команди
+git add --all - stage на сите
+git commit -m "Final commit" - последен commit
+29. git push --all - синхронизација
 
